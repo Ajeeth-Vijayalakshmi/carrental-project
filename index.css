@@ -1,0 +1,99 @@
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+.template1{
+  position:relative;
+  top:20px;
+}
+.second-section{
+position:relative;
+padding-top:100px;
+}
+.info{
+  color:#40514E;
+  position:relative;
+  left:15px;
+}
+.procedure{
+  color:white;
+  left:5px;
+  right:15px;
+}
+.para1{
+
+}
+.third-section{
+  text-align: center;
+  position:relative;
+  font-size:3.5rem;
+  color:grey;
+  padding-top:100px;
+  right:15px;
+  left:15px;
+}
+i:hover{
+  color:blue;
+}
+.process{
+  font-size:14px;
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 10px;
+  color:#40514E;
+}
+h5{
+  color:#01a9b4;
+}
+.vision{
+  text-align: left;
+  padding-left: 10px;
+}
+.fourth-section{
+  padding-top: 100px;
+}
+.last-section{
+  text-align: center;
+  position:relative;
+  color:grey;
+  top:100px;
+}
+.foot-link{
+  font-size:1rem;
+  margin-left:10px;
+}
+.fa-check-circle
+{
+  text-align: center;
+  font-size:5rem;
+}
+.f4-section{
+  text-align: center;
+  position:relative;
+  color:#fff;
+  top:100px;
+  left:15px;
+}
+
+.badge{
+  font-size:2rem;
+}
+
+.conTact{
+  text-align: center;
+  position:relative;
+  left:5px;
+  right:100px;
+  top:100px;
+}
+.final-section{
+  text-align: center;
+  position:relative;
+  color:white;
+  top:100px;
+}
+.foot-links{
+  color:grey;
+  margin-left:15px;
+  font-size:2rem;
+}
